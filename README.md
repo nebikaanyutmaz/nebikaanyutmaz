@@ -1,63 +1,84 @@
-# Hi there! 👋 I'm Nebi Kaan Yutmaz
+<h1 align="center">Hi 👋 I'm Nebi Kaan Yutmaz</h1>
 
-## About Me
+<h3 align="center">
+Student • EU DEEP Participant • MUN Delegate • Law Enthusiast • AI & Technology
+</h3>
 
-I am a high school student from Türkiye who is passionate about law, international relations, the European Union, artificial intelligence and digital technologies.
-
-Throughout my education, I have participated in university-level academic programs, legal simulations and international conferences while developing my skills in research, public speaking and project management.
-
----
-
-## Education
-
-🎓 Karşıyaka Anadolu Lisesi
+<p align="center">
+<a href="https://nebikaanyutmaz.github.io">🌐 Website</a> •
+<a href="https://www.linkedin.com/in/nebi-kaan-yutmaz-1aa485362/">💼 LinkedIn</a> •
+📧 nebiyutmaz29@gmail.com
+</p>
 
 ---
 
-## Academic Experience
+## 👨‍💻 About Me
 
-🇪🇺 Jean Monnet Module – EU DEEP
+I am a high school student from Türkiye with a strong interest in law, international relations, artificial intelligence, digital technologies and project management.
+
+I enjoy participating in academic programs, Model United Nations conferences and interdisciplinary projects while continuously improving my research, communication and leadership skills.
+
+---
+
+## 🎓 Education
+
+**Karşıyaka Anadolu Lisesi**
+
+High School Student
+
+---
+
+## 🏅 Academic Programs
+
+### 🇪🇺 Jean Monnet Module – EU DEEP
+
 - European Union Policies
 - Equality & Human Rights
 - International Cooperation
 
-⚖️ Legal Mock Trial Simulation
-- İzmir Kâtip Çelebi University
+### ⚖️ Legal Mock Trial Simulation
+
+İzmir Kâtip Çelebi University
+
 - Practical Court Simulation
-
----
-
-## Conferences
-
-🌍 HoneyMUN 2024
-Delegate of UNEP
-
-⚡ KALGÇ 2024
-Crisis Committee
-
----
-
-## Interests
-
-- Artificial Intelligence
-- Law
-- International Relations
-- European Union Studies
-- Digital Media
-- Project Management
+- Legal Research
 - Public Speaking
 
 ---
 
-## My Portfolio
+## 🌍 Conferences
 
-🌐 https://nebikaanyutmaz.github.io
+### HoneyMUN 2024
+
+**UNEP Committee**
+
+### KALGÇ 2024
+
+**Crisis Committee**
 
 ---
 
-## Contact
+## 💡 Interests
 
-📧 nebiyutmaz29@gmail.com
+- Artificial Intelligence
+- Law
+- International Relations
+- European Union
+- Digital Media
+- Public Speaking
+- Project Management
+
+---
+
+## 🌐 Portfolio
+
+➡️ https://nebikaanyutmaz.github.io
+
+---
+
+## 📫 Contact
+
+📧 **nebiyutmaz29@gmail.com**
 
 💼 LinkedIn
 
@@ -69,11 +90,4 @@ https://www.linkedin.com/in/nebi-kaan-yutmaz-1aa485362/
 
 ---
 
-## GitHub Stats
-
-Coming soon...
-
----
-
-> "Learning never exhausts the mind."
-> — Leonardo da Vinci
+⭐ Thanks for visiting my profile!
